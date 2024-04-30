@@ -70,5 +70,9 @@ https://drive.google.com/file/d/1K9WPke7t_IcNbbqsNVQ7wwJKZ-5nbhWS/view?usp=shari
 word2text.ipynbを上から順に実行する。
 
 # 補足
-functionディレクトリ内のコードは[https://github.com/oreilly-japan/deep-learning-from-scratch-2]から引用している
 
+functionディレクトリ内のコードは以下から引用している
+
+```
+https://github.com/oreilly-japan/deep-learning-from-scratch-2
+```
