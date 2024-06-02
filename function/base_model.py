@@ -3,8 +3,8 @@ import sys
 sys.path.append('..')
 import os
 import pickle
-from np import *
-from util import to_gpu, to_cpu
+from function.np import *
+from function.util import to_gpu, to_cpu
 
 
 class BaseModel:

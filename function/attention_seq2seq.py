@@ -1,12 +1,12 @@
 # coding: utf-8
 import sys
 sys.path.append('..')
-from time_layers import *
-from seq2seq import Encoder, Seq2seq
-from attention_layer import TimeAttention
-from np import *  # import numpy as np
+from function.time_layers import *
+from function.seq2seq import Encoder, Seq2seq
+from function.attention_layer import TimeAttention
+from function.np import *  # import numpy as np
 
-from functions import softmax
+from function.functions import softmax
 
 
 class AttentionEncoder(Encoder):

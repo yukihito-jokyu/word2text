@@ -1,8 +1,8 @@
 # coding: utf-8
 import sys
 sys.path.append('..')
-from np import *  # import numpy as np
-from layers import Softmax
+from function.np import *  # import numpy as np
+from function.layers import Softmax
 
 
 class WeightSum:

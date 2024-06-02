@@ -1,5 +1,5 @@
 # coding: utf-8
-from config import GPU
+from function.config import GPU
 
 
 if GPU:

@@ -2,7 +2,7 @@
 import sys
 sys.path.append('..')
 import os
-from np import *
+from function.np import *
 
 
 def preprocess(text):

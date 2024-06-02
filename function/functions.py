@@ -1,5 +1,5 @@
 # coding: utf-8
-from np import *
+from function.np import *
 
 
 def sigmoid(x):

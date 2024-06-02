@@ -1,8 +1,8 @@
 # coding: utf-8
 import sys
 sys.path.append('..')
-from time_layers import *
-from base_model import BaseModel
+from function.time_layers import *
+from function.base_model import BaseModel
 
 
 class Encoder:

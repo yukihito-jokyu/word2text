@@ -1,7 +1,7 @@
 # coding: utf-8
-from np import *  # import numpy as np (or import cupy as np)
-from layers import *
-from functions import softmax, sigmoid
+from function.np import *  # import numpy as np (or import cupy as np)
+from function.layers import *
+from function.functions import softmax, sigmoid
 
 
 class RNN:
